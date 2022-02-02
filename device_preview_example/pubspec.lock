@@ -19,8 +19,8 @@ packages:
     dependency: "direct main"
     description:
       path: "packages/amplify_auth_cognito"
-      ref: auth-stub
-      resolved-ref: "88cce4fbf6ea6e0fb6942eb0e19aa5f2810e931d"
+      ref: "3ee5bb751981202a51f40345eab3cda9af2e18ec"
+      resolved-ref: "3ee5bb751981202a51f40345eab3cda9af2e18ec"
       url: "https://github.com/Jordan-Nelson/amplify-flutter.git"
     source: git
     version: "0.3.2"
@@ -56,8 +56,8 @@ packages:
     dependency: "direct main"
     description:
       path: "packages/amplify_flutter"
-      ref: auth-stub
-      resolved-ref: "88cce4fbf6ea6e0fb6942eb0e19aa5f2810e931d"
+      ref: "3ee5bb751981202a51f40345eab3cda9af2e18ec"
+      resolved-ref: "3ee5bb751981202a51f40345eab3cda9af2e18ec"
       url: "https://github.com/Jordan-Nelson/amplify-flutter.git"
     source: git
     version: "0.3.2"

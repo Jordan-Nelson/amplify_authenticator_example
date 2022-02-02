@@ -24,14 +24,16 @@ dependencies:
   flutter:
     sdk: flutter
   amplify_flutter:
+    # ^0.3.0
     git:
       url: https://github.com/Jordan-Nelson/amplify-flutter.git
-      ref: auth-stub
+      ref: 3ee5bb751981202a51f40345eab3cda9af2e18ec
       path: packages/amplify_flutter
   amplify_auth_cognito:
+    # ^0.3.0
     git:
       url: https://github.com/Jordan-Nelson/amplify-flutter.git
-      ref: auth-stub
+      ref: 3ee5bb751981202a51f40345eab3cda9af2e18ec
       path: packages/amplify_auth_cognito
   amplify_authenticator: 0.1.0-rc.4
   device_preview: ^1.0.0
@@ -45,12 +47,12 @@ dependency_overrides:
   amplify_flutter:
     git:
       url: https://github.com/Jordan-Nelson/amplify-flutter.git
-      ref: auth-stub
+      ref: 3ee5bb751981202a51f40345eab3cda9af2e18ec
       path: packages/amplify_flutter
   amplify_auth_cognito:
     git:
       url: https://github.com/Jordan-Nelson/amplify-flutter.git
-      ref: auth-stub
+      ref: 3ee5bb751981202a51f40345eab3cda9af2e18ec
       path: packages/amplify_auth_cognito
 
 dev_dependencies:
